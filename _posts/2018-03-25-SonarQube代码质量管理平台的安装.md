@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      SonarQube代码质量管理平台的安装
-subtitle:   安装完成，配置、使用 待续
+subtitle:   Sonar,CI
 date:       2018-03-25
 author:     Heiyogl
 header-img: img/post-bg-home.jpg
