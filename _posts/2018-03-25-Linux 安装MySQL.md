@@ -1,4 +1,3 @@
-
 ---
 layout:     post
 title:      Linux 安装MySQL
