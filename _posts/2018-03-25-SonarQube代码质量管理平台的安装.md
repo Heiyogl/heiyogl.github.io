@@ -8,6 +8,8 @@ header-img: img/post-bg-home.jpg
 catalog: true
 tags:
     - 持续集成
+    - CI
+    - Sonar
 ---
 
 
